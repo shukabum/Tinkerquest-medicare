@@ -11,7 +11,8 @@ Database used to store the user data is MONGODB
 
 ## API 
 You need to enter the api keys for full working of the platform which includes:
-MONDODB URI (for database)
+<br/>
+MONDODB URI (for database)<br/>
 TEXT SUMMARIZER API - Eden Ai 
 
 ## Glimps of the platform :
