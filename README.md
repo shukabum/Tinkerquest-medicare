@@ -20,5 +20,6 @@ TEXT SUMMARIZER API - Eden Ai
 
 # RUNNING THE FILES:
 To run the forntend : Go to the frontend directory and enter the command in the terminal ``` npm run start  ```
+<br/>
 To run the backend : Go tp the backend directory and enter the command in the terminal ``` npm start ```
 
