@@ -42,7 +42,7 @@ Experience the future of healthcare with MEDICARE, where transparency and empowe
 
 ## **Developer**
 
-Shubham Sharma ([GitHub](https://github.com/shukabum))
+**Shubham Sharma** ([GitHub](https://github.com/shukabum))
 
 ---
 Feel free to customize and expand upon this template to fit your specific needs!
