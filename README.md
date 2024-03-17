@@ -4,7 +4,9 @@ This platform provides the patient to keep a proper check on his/her health and 
 
 ## Techstack
 Frontend is built in React Js
+<br/>
 Backend is built in nodejs and python
+<br/>
 Database used to store the user data is MONGODB
 
 ## API 
